@@ -1,0 +1,6 @@
+[submodule "3rdparty/cfitsio"]
+	path = 3rdparty/cfitsio
+	url = https://github.com/healpy/cfitsio.git
+[submodule "3rdparty/zlib"]
+	path = 3rdparty/zlib
+	url = https://github.com/madler/zlib.git
